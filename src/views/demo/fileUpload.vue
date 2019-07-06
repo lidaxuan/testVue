@@ -13,7 +13,7 @@
 <script>
     export default {
         data: {
-          name: '',
+          name: '阿斯达',
           age: '',
           file: ''
         },
